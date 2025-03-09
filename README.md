@@ -1,5 +1,5 @@
 # FreeVoiceQualityControl 语音质检系统
-语音转文字，文本质检，智能质检，实时质检，录音文件抽检，ASR，TTS，Call Center, Contact Center,AI,大模型，人工智能，联络中心,Robot,large model robot!!!!!!
+语音转文字，文本质检，智能质检，实时质检，录音文件抽检，ASR，TTS，Call Center, Contact Center,AI,大模型，人工智能，联络中心,Robot,large model robot!!!!!!!
 
 ## 😄完整性:前端、后端、数据库，齐全！功能全开、不设限！不分什么社区版、商业版！部分功能还在迭代ing！
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
