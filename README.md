@@ -6,7 +6,7 @@
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
 致力于成为：1，大模型呼叫中心系统、大模型呼入、大模型呼出、电话机器人、客服机器人、坐席辅助、质检系统、智能呼叫中心系统、大模型智能客服系统；2，开源呼叫中心系统、开源客服系统；3，视频呼叫中心系统、视频客服系统；4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者！
 
-## 📫 How to reach us（截止2025.04.20语音质检系统还在开发ing）:
+## 📫 How to reach us（截止2025.04.21语音质检系统还在开发ing）:
 - 官方WeChat:freeipcc
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
@@ -19,6 +19,9 @@ http://118.25.192.13:8822/cc
 
 2，工单：(demo/123456)
 http://118.25.192.13:80
+
+注意：如果页面打不开，是因为demo页面正在频受DDo5攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
+![image](https://github.com/user-attachments/assets/3115c7b7-c6ed-415e-b272-db6a8120784a)
 
 ## 开发语言：Java,Vue,Python,SpringBoot！
 业务模块Java为主；智能模块Python为主。
